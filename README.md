@@ -2,7 +2,7 @@
 
 Welcome to the Public Goods Funding community! Here we'll discuss new ways to grow and sustainably fund public goods, starting with open source software.
 
-[www.publicgoodsfunding.org](https://www.publicgoodsfunding.org/)
+[publicgoodsfunding.org](https://www.publicgoodsfunding.org/)
 
 Short link [pgf.ing](https://pgf.ing)
 
